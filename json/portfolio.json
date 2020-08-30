@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Red Social - Voz Amiga",
+        "description": "HTML, CSS, JavaScript, Firebase",
+        "image": "https://i.ibb.co/dtTKFzy/social-network.jpg",
+        "link" : "https://sandrahfiestas.github.io/LIM012-fe-social-network/src/#/signin"
+    },
+    {
+        "name": "Restaurante - Burger Queen",
+        "description": "HTML, CSS, Sass, JavaScript, ReactJS, Firebase",
+        "image": "https://i.ibb.co/T1FX8vg/burger-queen.jpg",
+        "link": "burger-queen-react.herokuapp.com/"
+    }
+
+]
