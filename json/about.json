@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sandra Jessica Huamán Fiestas",
+        "profession" : "Front-end Developer",
+        "photo" : "https://i.ibb.co/TmTDyB4/perfil-transparente.png",
+        "about_me" : "Sobre mi...",
+        "skills": [
+            "HTML",
+            "CSS",            
+            "JavaScript",
+            "Sass",
+            "ReactJS",
+            "Angular",
+            "NodeJs",
+            "GitHub",
+            "Git",
+            "Jest"
+        ]
+    }
+]
