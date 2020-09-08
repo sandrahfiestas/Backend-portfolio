@@ -3,7 +3,7 @@
         "name": "Sandra Jessica Huamán Fiestas",
         "profession" : "Front-end Developer",
         "photo" : "https://i.ibb.co/TmTDyB4/perfil-transparente.png",
-        "about_me" : "Sobre mi...",
+        "about_me" : "Profesional Técnico en Computación e Informática con especialización en Desarrollo Front-end y autodidacta entusiasta, con facilidad de trabajar en equipo usando metodologias agiles y siempre dispuesta a recibir feedback. Me encanta aprender sobre nuevas tecnologías, saber qué problemas están resolviendo y cómo puedo usarlas para crear productos mejores y escalables. Disfruto de las actividades familiares y los juegos de mesa son la forma más divertida de pasar mi tiempo libre.",
         "skills": [
             "HTML",
             "CSS",            
@@ -11,10 +11,14 @@
             "Sass",
             "ReactJS",
             "Angular",
-            "NodeJs",
-            "GitHub",
+            "Firebase",
             "Git",
-            "Jest"
+            "Node.js",
+            "Jest",
+            "GitHub",
+            "Heroku",
+            "Figma",
+            "Trello"
         ]
     }
 ]
