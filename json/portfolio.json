@@ -1,5 +1,15 @@
 [
     {
+        "title": "Maya Clientes - Yanbal",
+        "name": "",
+        "description": "Aplicación diseñada en mobile first, tiene como objetivo que las consultoras puedan registrar a sus clientes y sus preferencias de compra para posteriormente ofrecerles variedad de productos. También permite registrar pedidos, monto a cobrar y fechas de pago.",
+        "technology": "Desarrollada en React, HTML, CSS, Sass, JavaScript, Bootstrap Firebase.",
+        "image": "https://i.ibb.co/yYJBmTQ/maya-Clientes-yanbal.jpg",
+        "linkWeb": "https://github.com/sandrahfiestas/mayaclientes-yanbal",
+        "linkRepo": "https://github.com/sandrahfiestas/mayaclientes-yanbal"
+
+    },
+    {
         "title": "Restaurante",
         "name": "Burger Queen",
         "description": "Aplicación de tablet, que permite a los meseros(as) tomar pedidos, registrar costos de consumos de clientes y enviarlos al chef de cocina, quien verá los pedidos por orden para ser preparados y finalmente ser entregados por el mesero(a).",
